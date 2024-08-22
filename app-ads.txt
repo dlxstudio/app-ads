@@ -35,6 +35,7 @@ zmaticoo.com, 5135655, RESELLER
 mintegral.com, 300835, DIRECT, 0aeed750c80d6423
 mintegral.com, 300280, DIRECT, 0aeed750c80d6423
 mintegral.com, 297074, DIRECT, 0aeed750c80d6423
+mintegral.com, 42125, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
@@ -806,7 +807,6 @@ themediagrid.com, R28I9J, DIRECT, 35d5010d7789b49d
 rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807
 pubmatic.com, 160493, RESELLER, 5d62403b186f2ace
 zetaglobal.net, 681, RESELLER
-mintegral.com, your PublisherID, DIRECT, 0aeed750c80d6423
 pokkt.com, 7139, RESELLER, c45702d9311e25fd
 appads.in, 107139, RESELLER
 pubmatic.com, 160456, RESELLER, 5d62403b186f2ace
